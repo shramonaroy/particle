@@ -1,16 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: My Corner | Shramona Roy
+description: My Corner | Shramona Roy
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: My Name
-user_description: Bicycle **rights** irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Shramona Roy
+user_description: I'm a thorough-bred Bengali, brought up in Pune and currently living in Chennai. I passed my ICSE 10th std from Pawar Public School, Pune. I did my CBSE 11th & 12th std from City International School, Pune and ended up as one of the city toppers with 97.2% marks in my boards.
+
+i'm changing paragraph here.
+user_title: Web Developer, Circuit Designer and Dancer
+email: evd17i006@iiitdm.ac.in
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  shramonaroy
 gplus_username:  lorem_ipsum
 
 # Google-analytics
