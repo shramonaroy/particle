@@ -1,4 +1,3 @@
-"new_user_desc": 
 
 I'm a thorough-bred Bengali, brought up in Pune and currently living in Chennai. I passed my ICSE 10th std from Pawar Public School, Pune. I did my CBSE 11th & 12th std from City International School, Pune and ended up as one of the city toppers with 97.2% marks in my boards. Presently, I'm pursuing my undergrads in Electronics Engineering at IIITD&M Kancheepuram.
                   
